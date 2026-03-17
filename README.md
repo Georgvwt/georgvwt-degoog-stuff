@@ -1,7 +1,7 @@
 <p align="center">
   <img src="logoev.png" alt="Everforest Theme Logo" width="200"/>
   <br><br>
-  <b>Everforest для degoog</b>
+  <b>Everforest theme for degoog</b>
 </p>
 # Everforest theme for degoog
 
