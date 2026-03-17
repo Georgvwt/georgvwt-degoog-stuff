@@ -9,6 +9,8 @@ Warm green forest palette inspired by [sainnhe/everforest](https://github.com/sa
 <details>
 <summary>Screenshot</summary>
 
-
+![Everforest 1](themes/everforest/screenshots/1.png)
+![Everforest 2](themes/everforest/screenshots/2.png)
+![Everforest 3](themes/everforest/screenshots/3.png)
 
 </details>
