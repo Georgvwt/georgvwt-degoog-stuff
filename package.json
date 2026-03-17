@@ -1,7 +1,7 @@
 {
   "name": "degoog-everforest-theme",
   "description": "Everforest theme for degoog.",
-  "repo-image": "https://raw.githubusercontent.com/Georgvwt/everforest-theme/main/logoev.png",
+  "repo-image": "logoev.png",
   "author": "Georgvwt",
   "plugins": [],
   "themes": [
