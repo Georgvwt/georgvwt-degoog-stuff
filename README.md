@@ -38,3 +38,6 @@ Warm green forest palette inspired by [sainnhe/everforest](https://github.com/sa
 Shows top comments from Reddit threads above search results. When a search result includes a Reddit link, the plugin fetches and displays the highest-voted replies in a card above the results.
 
 </details>
+<summary>Screenshots</summary>
+
+![Everforest 1](plugins/reddit-slot/screenshots/1.png)
