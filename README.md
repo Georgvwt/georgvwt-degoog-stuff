@@ -4,6 +4,8 @@
   Random themes & plugins for <a href="https://github.com/fccview/degoog">degoog</a>.
 </p>
 
+---
+
 <details>
 <summary>Themes</summary>
 
@@ -24,6 +26,7 @@ Warm green forest palette inspired by [sainnhe/everforest](https://github.com/sa
 
 </details>
 
+---
 
 </details>
 
