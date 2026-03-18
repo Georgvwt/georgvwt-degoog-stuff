@@ -3,15 +3,6 @@
   "description": "Everforest theme for degoog.",
   "repo-image": "https://raw.githubusercontent.com/Georgvwt/everforest-theme/main/logoev.png",
   "author": "Georgvwt",
-  "plugins": [
-    {
-      "path": "plugins/reddit-slot",
-      "name": "Reddit Answers",
-      "description": "When search results include Reddit threads, shows the top comments above results.",
-      "version": "1.0.0",
-      "type": "slot"
-    }
-  ],
   "themes": [
     {
       "path": "themes/everforest",
