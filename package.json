@@ -14,3 +14,10 @@
   ],
   "engines": []
 }
+{
+  "path": "plugins/reddit-slot",
+  "name": "Reddit Answers",
+  "description": "When search results include Reddit threads, shows the top comments above results.",
+  "version": "1.0.0",
+  "type": "slot"
+}
