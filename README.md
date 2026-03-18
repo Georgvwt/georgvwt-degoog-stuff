@@ -41,3 +41,5 @@ Shows top comments from Reddit threads above search results. When a search resul
 <summary>Screenshots</summary>
 
 ![Everforest 1](plugins/reddit-slot/screenshots/1.png)
+
+</details>
