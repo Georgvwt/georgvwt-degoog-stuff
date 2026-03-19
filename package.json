@@ -1,0 +1,24 @@
+{
+  "name": "degoog-everforest-theme",
+  "description": "Everforest theme for degoog.",
+  "repo-image": "https://raw.githubusercontent.com/Georgvwt/everforest-theme/main/logoev.png",
+  "author": "Georgvwt",
+  "plugins": [
+    {
+      "path": "plugins/reddit-slot",
+      "name": "Reddit Answers",
+      "description": "When search results include Reddit threads, shows the top comments above results.",
+      "version": "1.0.0",
+      "type": "slot"
+    }
+  ],
+  "themes": [
+    {
+      "path": "themes/everforest",
+      "name": "Everforest",
+      "description": "Warm green forest palette. Dark Hard/Medium/Soft and Light Hard/Medium/Soft.",
+      "version": "2.0.0"
+    }
+  ],
+  "engines": []
+}
