@@ -45,8 +45,6 @@ Shows top comments from Reddit threads above search results. When a search resul
 
 </details>
 
----
-
 ### OpenStreetMap
 
 Shows an interactive map above search results for location-related queries. Uses Nominatim geocoding and Leaflet — no API key required.
@@ -59,8 +57,6 @@ Shows an interactive map above search results for location-related queries. Uses
 
 </details>
 
----
-
 ### Dictionary
 
 Shows word definitions, pronunciation, synonyms, antonyms and etymology above search results. Uses the Free Dictionary API — no API key required. Trigger with queries like `define ephemeral` or `meaning of fleeting`.
@@ -68,6 +64,7 @@ Shows word definitions, pronunciation, synonyms, antonyms and etymology above se
 <details>
 <summary>Screenshots</summary>
 
+![Dictionary](plugins/define-slot/screenshots/2.png)
 ![Dictionary](plugins/define-slot/screenshots/1.png)
 
 </details>
