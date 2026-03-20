@@ -79,6 +79,18 @@ Usage: `!translate hello`, `!translate hello to:fr`
 ![Dictionary](plugins/translate-command/screenshots/2.png)
 ![Dictionary](plugins/translate-command/screenshots/1.png)
 
+</details>
+
+### Cool Weather
+
+Bang command that shows current weather and a 7-day forecast for any city. Uses Nominatim for geocoding and Open-Meteo for weather data — no API key required. Features cool animated weather icons, hourly breakdown on tap, and a sunrise/sunset progress bar.
+
+<details>
+<summary>Screenshots</summary>
+
+![Dictionary](plugins/weather-slot/screenshots/2.png)
+![Dictionary](plugins/weather-slot/screenshots/1.png)
+
 
 </details>
 
