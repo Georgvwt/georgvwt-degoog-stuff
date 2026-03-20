@@ -71,7 +71,7 @@ Shows word definitions, pronunciation, synonyms, antonyms `(you can click on the
 
 ### Translate
 
-Bang command that translates text using the MyMemory API — no API key required. Use !translate <text> to translate, with auto-detection of the source language. For single-word translations, a side panel appears with audio pronunciation, usage examples, and synonyms for both languages.
+Bang command that translates text using the MyMemory API — no API key required. Use !translate <text> to translate, with auto-detection of the source language. For single-word translations, a side panel appears with audio pronunciation, usage examples, and synonyms for both languages. May be buggy.
 Usage: `!translate hello`, `!translate hello to:fr`
 
 <details>
