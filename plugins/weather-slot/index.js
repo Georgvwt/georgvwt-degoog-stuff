@@ -22,7 +22,7 @@ const WMO_ICON = {
 };
 
 export default {
-  name: "Weather",
+  name: "Cool Weather",
   description: "Shows current weather and 7-day forecast with animated icons. Usage: !weather <city>",
   trigger: "weather",
   aliases: ["погода", "метео", "forecast"],
