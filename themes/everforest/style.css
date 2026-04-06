@@ -1045,3 +1045,15 @@ img.result-favicon {
   animation: shimmer 1.5s infinite;
   border-radius: 8px;
 }
+
+.sidebar-panel {
+  border: 1px solid var(--primary) !important;
+  border-radius: 12px !important;
+  overflow: hidden;
+  margin-bottom: 0.75rem;
+}
+
+.knowledge-panel {
+  border: 1px solid var(--primary) !important;
+  border-radius: 12px !important;
+}
