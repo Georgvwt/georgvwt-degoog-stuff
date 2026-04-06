@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Everforest Theme</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body { padding: 2rem; }
+        .test-box { 
+            padding: 2rem; 
+            margin: 1rem 0; 
+            border-radius: 8px;
+            background: var(--bg);
+            color: var(--text-primary);
+            border: 1px solid var(--border);
+        }
+        .test-button {
+            background: var(--btn-bg);
+            color: var(--btn-text);
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            display: inline-block;
+            margin: 0.5rem 0;
+        }
+        .test-link {
+            color: var(--text-link);
+            display: block;
+            margin: 0.5rem 0;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="color: var(--text-primary);">Тест темы Everforest</h1>
+    <p style="color: var(--text-secondary);">
+        Текущий фон: <span id="bg-color" style="font-family: monospace;"></span>
+    </p>
+
+    <div class="test-box">
+        <h2 style="color: var(--text-primary);">Пример контента</h2>
+        <p style="color: var(--text-secondary);">Вторичный текст</p>
+        <div class="test-button">Кнопка</div>
+        <a href="#" class="test-link">Ссылка (link)</a>
+        <div style="margin-top: 1rem; padding: 1rem; background: var(--bg-light); border-radius: 4px;">
+            Вложенный блок (bg-light): <span style="color: var(--primary);">Primary color</span>
+        </div>
+    </div>
+
+    <script>
+        // Показываем текущий цвет фона
+        const computed = getComputedStyle(document.body);
+        document.getElementById('bg-color').textContent = computed.getPropertyValue('--bg').trim();
+
+        // Для переключения тем через консоль:
+        // document.documentElement.setAttribute('data-theme', 'light');
+        // document.documentElement.setAttribute('data-everforest-variant', 'light-medium');
+    </script>
+</body>
+</html>
