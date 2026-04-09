@@ -1,7 +1,7 @@
-<h1 align="center">Georgvwt's degoog stuff</h1>
+<h1 align="center">THIS REPO IS ABANDONED</h1>
 
 <p align="center">
-  Random themes & plugins for <a href="https://github.com/fccview/degoog">degoog</a>.
+  My repo is moving to the <a href="https://codeberg.org/Georgvwt/georgvwt-degoog-stuff">codeberg</a>.
 </p>
 
 ---
